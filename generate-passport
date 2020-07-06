@@ -1,0 +1,3 @@
+./otf2bdf -r 75 -p 14 -o ../bdf-to-passport/fonts-in/font-tiny.bdf fonts-in/montserrat/Montserrat-ExtraBold.otf
+./otf2bdf -r 75 -p 18 -o ../bdf-to-passport/fonts-in/font-small.bdf fonts-in/montserrat/Montserrat-Medium.otf
+./otf2bdf -r 75 -p 20 -o ../bdf-to-passport/fonts-in/font-large.bdf fonts-in/montserrat/Montserrat-Bold.otf
